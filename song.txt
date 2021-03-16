@@ -5,6 +5,7 @@ forth line
 
 five line
 six line
+<<<<<<< HEAD
 
 
 some new content
@@ -12,3 +13,5 @@ and here
 
 and one more line
 -------------------
+=======
+>>>>>>> parent of e23f989... new commit wih new line
